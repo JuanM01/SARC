@@ -1,0 +1,25 @@
+.horizon-logo {
+    display: flex;
+    align-items: center;
+    margin-right: 80px;
+    padding-bottom: 10px;
+    /*flex-direction: column; */
+    
+  }
+  
+  .logo {
+    width: 60px; /* Ajusta el tamaño según sea necesario */
+    height: auto;
+    
+  }
+  
+  .logo-text {
+    display: flex;
+    text-align: center;
+    margin-left: 10px; /* Espacio entre la imagen y el texto */
+    font-size: 20px; /* Ajusta el tamaño del texto según sea necesario */
+    font-weight: bold; /* O cualquier otro estilo que prefieras */
+    padding-top: 10px;
+    padding-left: 10px;
+   
+  }

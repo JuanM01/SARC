@@ -1,0 +1,20 @@
+[
+  {
+    "ncontrato":"202440012",
+    "contrato_secop": "CO1.PCCNT.2024", 
+    "dependencia": "INFRAESTRUCTURA",
+    "ucontratacion": "SECRETARIA GENERAL",
+    "valorcontrato": "30'473.850,00",
+    "estado": "EJECUCION",
+    "noproceso": "CO1.BDOS.1710..."  
+  },
+  {
+    "ncontrato":"202358013",
+    "contrato_secop": "CO2.PCCNT.2023", 
+    "dependencia": "INFRAESTRUCTURA",
+    "ucontratacion": "SECRETARIA GENERAL",
+    "valorcontrato": "25'520.340,00",
+    "estado": "FINALIZADO",
+    "noproceso": "CO2.BDOS.2860..." 
+  }
+]

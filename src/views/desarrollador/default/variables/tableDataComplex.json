@@ -1,0 +1,26 @@
+[
+  {
+    "name":"N. Contrato: 202440012",
+    "status": "Pagado",
+    "date": "18 Enero 2024",
+    "progress": 100 
+  },
+  {
+    "name":"N. Contrato: 202440013",
+    "status": "Rechazado",
+    "date": "18 Abril 2024",
+    "progress": 25.5  
+  },
+  {
+    "name":"N. Contrato: 202440013",
+    "status": "Aprobado",
+    "date": "19 Abril 2024",
+    "progress": 50 
+  },
+  {
+    "name":"N. Contrato: 202440013",
+    "status": "Pagado",
+    "date": "25 Abril 2024",
+    "progress": 100 
+  }
+]
