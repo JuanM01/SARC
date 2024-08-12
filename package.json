@@ -2,6 +2,7 @@
   "name": "sarcc",
   "version": "1.0.1",
   "private": true,
+  "homepage": "https//JuanM01.github.io/SARC/build",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.9",
