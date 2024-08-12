@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/https//JuanM01.github.io/SARC/static/css/main.936016f9.css",
+    "main.js": "/https//JuanM01.github.io/SARC/static/js/main.46542cd2.js",
+    "static/media/auth2.png": "/https//JuanM01.github.io/SARC/static/media/auth2.cf1bc4cf64f3f6dbe924.png",
+    "static/media/pie.jpg": "/https//JuanM01.github.io/SARC/static/media/pie.5c082c07019703f22b01.jpg",
+    "static/media/alcaldiaValledupar.png": "/https//JuanM01.github.io/SARC/static/media/alcaldiaValledupar.64b8df96f691da482440.png",
+    "static/media/Navbar.png": "/https//JuanM01.github.io/SARC/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "index.html": "/https//JuanM01.github.io/SARC/index.html",
+    "main.936016f9.css.map": "/https//JuanM01.github.io/SARC/static/css/main.936016f9.css.map",
+    "main.46542cd2.js.map": "/https//JuanM01.github.io/SARC/static/js/main.46542cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.936016f9.css",
+    "static/js/main.46542cd2.js"
+  ]
+}
